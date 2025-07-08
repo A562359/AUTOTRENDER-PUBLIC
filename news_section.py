@@ -1,0 +1,1 @@
+# Yahoo Finance news fetcher placeholder
