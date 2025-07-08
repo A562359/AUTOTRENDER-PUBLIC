@@ -1,7 +1,10 @@
 streamlit
 pandas
 requests
-streamlit_autorefresh
-smartapi-python
 pyotp
-openai
+smartapi-python
+plotly
+matplotlib
+yfinance
+beautifulsoup4
+lxml
